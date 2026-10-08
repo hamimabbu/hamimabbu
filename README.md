@@ -14,7 +14,7 @@ Most of my work so far is university group projects and private repositories, so
 
 - Final-year capstone for an industry sponsor: the backend API and database for an OKR tracking module (Node.js, Express, MongoDB)
 - An online retail system with Java, Spring Boot and Apache Kafka microservices (group project, in progress)
-- TalentMatch Pro: a recruitment platform with Node.js, Express, SQLite, JWT login, role based access and a recommendation engine (group project)
+- TalentMatch Pro: a recruitment platform with Node.js, Express, SQLite, JWT login, role-based access and a recommendation engine (group project)
 - Loan default prediction with Apache Spark MLlib and TensorFlow on the LendingClub dataset (group project)
 
 ## Tools I use
