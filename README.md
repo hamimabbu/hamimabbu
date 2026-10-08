@@ -1,27 +1,28 @@
 # Hi, I'm Hamim
 
-I'm Hasibur Rahaman Hamim, a final year Bachelor of Computer Science student at the University of Wollongong, majoring in Cyber Security. I graduate in December 2026 and I'm looking for an IT support, service desk or junior security role in Wollongong or Sydney.
+I'm Hasibur Rahaman Hamim, a final-year Bachelor of Computer Science student at the University of Wollongong, majoring in Cyber Security. I graduate in December 2026 and I'm looking for a graduate or junior role in cyber security, such as security analyst, SOC analyst or penetration tester, in Sydney or Wollongong. I'm also open to other IT and computer science roles, including IT support, systems and software development.
 
-Most of my work so far is university group projects and private repositories, so there isn't much public code here yet. I plan to publish personal projects here as I finish them.
+Most of my work so far is university group projects and private repositories, so there isn't much public code here yet. I plan to publish my lab notes and personal projects here as I finish them.
 
-## What I'm working on now
+## Security work
 
-- My final year capstone for an industry sponsor: the backend API and database for an OKR tracking module (Node.js, Express, MongoDB)
-- A group project building an online retail system with Java, Spring Boot and Apache Kafka microservices
-- A home lab in VirtualBox with a Windows Server domain controller, a Windows 11 client and Kali Linux
+- A home lab in VirtualBox with a Windows Server 2022 domain controller, a Windows 11 client and Kali Linux, where I practise common Active Directory attacks and how to spot them
+- ARP cache poisoning detection: reproduced the attack in a Kali lab, captured it in Wireshark and wrote a Python and Scapy detector (group assignment)
+- Regular practice on TryHackMe and Hack The Box
 
-## Projects from uni
+## Software and data projects
 
+- Final-year capstone for an industry sponsor: the backend API and database for an OKR tracking module (Node.js, Express, MongoDB)
+- An online retail system with Java, Spring Boot and Apache Kafka microservices (group project, in progress)
 - TalentMatch Pro: a recruitment platform with Node.js, Express, SQLite, JWT login, role based access and a recommendation engine (group project)
 - Loan default prediction with Apache Spark MLlib and TensorFlow on the LendingClub dataset (group project)
-- ARP cache poisoning detection with a Python and Scapy tool (group assignment)
 
 ## Tools I use
 
-- Languages: Python, JavaScript, Java, C++, SQL, Bash
+- Security and networking: Wireshark, Nmap, Burp Suite, Metasploit, Hydra, John the Ripper, Kali Linux
+- Systems: Linux, Windows, Windows Server, Active Directory, VirtualBox, VMware
+- Languages: Python, Bash, JavaScript, Java, C++, SQL
 - Backend and data: Node.js, Express, MongoDB, MySQL, PostgreSQL, SQLite, Apache Spark
-- Security and networking: Wireshark, Nmap, Burp Suite, Metasploit, Hydra, John the Ripper
-- Systems: Linux, Windows, VirtualBox, VMware
 
 ## Certifications
 
