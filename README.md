@@ -6,7 +6,7 @@ Most of my work so far is university group projects in private repositories. My 
 
 ## Security work
 
-- [Active Directory home lab](https://github.com/hamimabbu/active-directory-home-lab): a VirtualBox lab with a Windows Server 2022 domain controller, a Windows 11 client and Kali Linux, where I practise common Active Directory attacks and how to detect and stop them
+- [Active Directory home lab](https://github.com/hamimabbu/active-directory-home-lab): a VirtualBox lab with a Windows Server 2022 domain controller, a Windows 11 client and Kali Linux, built to practise common Active Directory attacks and how to detect and stop them
 - ARP cache poisoning detection: reproduced the attack in a Kali lab, captured it in Wireshark and wrote a Python and Scapy detector (group assignment)
 - Regular practice on TryHackMe and Hack The Box
 
