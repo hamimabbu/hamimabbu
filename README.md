@@ -2,7 +2,7 @@
 
 I'm Hasibur Rahaman Hamim, a final-year Bachelor of Computer Science student at the University of Wollongong, majoring in Cyber Security. I graduate in December 2026 and I'm looking for a graduate or junior role in cyber security, such as security analyst, SOC analyst or penetration tester, in Sydney or Wollongong. I'm also open to other IT and computer science roles, including IT support, systems and software development.
 
-Most of my work so far is university group projects in private repositories. My Active Directory home lab write-up is public below, and I'll add more personal projects as I finish them.
+My pinned repositories below show my most recent work: an industry capstone where I built file upload security and access controls, and an Active Directory security lab. Some earlier group projects are in private repositories.
 
 ## Security work
 
@@ -12,7 +12,7 @@ Most of my work so far is university group projects in private repositories. My 
 
 ## Software and data projects
 
-- Final-year capstone for an industry sponsor: the backend API and database for an OKR tracking module (Node.js, Express, MongoDB)
+- [OKR module, industry capstone](https://github.com/Shakif-a/buscal-app): for a sponsor's dashboard I built the evidence upload scanner (file signature and content checks on PDFs, archives, images and documents), role-based access and the backend, with integration and end-to-end tests (Node.js, Express, MongoDB, React)
 - An online retail system with Java, Spring Boot and Apache Kafka microservices (group project, in progress)
 - TalentMatch Pro: a recruitment platform with Node.js, Express, SQLite, JWT login, role-based access and a recommendation engine (group project)
 - Loan default prediction with Apache Spark MLlib and TensorFlow on the LendingClub dataset (group project)
