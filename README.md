@@ -2,10 +2,11 @@
 
 I'm Hasibur Rahaman Hamim, a final-year Bachelor of Computer Science student at the University of Wollongong, majoring in Cyber Security. I graduate in December 2026 and I'm looking for a graduate or junior role in cyber security, such as security analyst, SOC analyst or penetration tester, in Sydney or Wollongong. I'm also open to other IT and computer science roles, including IT support, systems and software development.
 
-My pinned repositories below show my most recent work: an industry capstone where I built file upload security and access controls, and an Active Directory security lab. Some earlier group projects are in private repositories.
+The repositories below cover an industry capstone where I built file upload security and access controls, an Active Directory lab, and a browser and connection evidence prototype. Some coursework and group projects are in private repositories.
 
 ## Security work
 
+- [LayerLens](https://github.com/hamimabbu/layerlens): a browser and connection evidence prototype with local browser checks, explicit choices for optional public-record lookups, and a previewable redacted export (JavaScript, Node.js)
 - [Active Directory home lab](https://github.com/hamimabbu/active-directory-home-lab): a VirtualBox lab with a Windows Server 2022 domain controller, a Windows 11 client and Kali Linux, built to practise common Active Directory attacks and how to detect and stop them
 - ARP cache poisoning detection: reproduced the attack in a Kali lab, captured it in Wireshark and wrote a Python and Scapy detector (group assignment)
 - Regular practice on TryHackMe and Hack The Box
