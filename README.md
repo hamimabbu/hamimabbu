@@ -8,7 +8,7 @@ The repositories below cover an industry capstone where I built file upload secu
 
 - [LayerLens](https://github.com/hamimabbu/layerlens): a browser and connection evidence prototype with local browser checks, explicit choices for optional public-record lookups, and a previewable redacted export (JavaScript, Node.js)
 - [Active Directory home lab](https://github.com/hamimabbu/active-directory-home-lab): a VirtualBox lab with a Windows Server 2022 domain controller, a Windows 11 client and Kali Linux, built to practise common Active Directory attacks and how to detect and stop them
-- ARP cache poisoning detection: reproduced the attack in a Kali lab, captured it in Wireshark and wrote a Python and Scapy detector (group assignment)
+- [ARP cache poisoning detector](https://github.com/hamimabbu/arp-poisoning-detector): reproduced the attack in a Kali lab, captured it in Wireshark and wrote a Python and Scapy detector (group assignment)
 - Regular practice on TryHackMe and Hack The Box
 
 ## Software and data projects
