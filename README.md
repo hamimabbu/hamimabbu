@@ -1,35 +1,36 @@
 # Hi, I'm Hamim
 
-I'm Hasibur Rahaman Hamim, a final-year Bachelor of Computer Science student at the University of Wollongong, majoring in Cyber Security. I graduate in December 2026 and I'm looking for a graduate or junior role in cyber security, such as security analyst, SOC analyst or penetration tester, in Sydney or Wollongong. I'm also open to other IT and computer science roles, including IT support, systems and software development.
+I'm Hasibur Rahaman Hamim, a final-year Computer Science student at the University of Wollongong, majoring in Cyber Security. I graduate in December 2026 and am looking for a graduate or junior role in Sydney or Wollongong. My interests include IT support, systems, software development and cyber security.
 
-The repositories below cover an industry capstone where I built file upload security and access controls, an Active Directory lab, and a browser and connection evidence prototype. Some coursework and group projects are in private repositories.
+## Projects
 
-## Security work
+- [ARP poisoning detector](https://github.com/hamimabbu/arp-poisoning-detector): a Python and Scapy tool that flags conflicting IP and MAC address claims. It started as a CSCI262 group assignment. The repo includes an offline demo and 14 tests.
+- [Active Directory home lab](https://github.com/hamimabbu/active-directory-home-lab): a Windows Server 2022 domain controller and Windows 11 client on an isolated VirtualBox network. The domain setup is complete; attack exercises and write-ups are still to do.
+- [LayerLens](https://github.com/hamimabbu/layerlens): a browser and connection evidence app built with JavaScript and Node.js. It includes local browser checks, optional public-record lookups and a redacted JSON export.
+- [OKR module for Micromax Technology](https://github.com/Shakif-a/buscal-app): an industry-sponsored team capstone. My work included a file upload scanner, access controls and backend features, with integration and end-to-end tests using Node.js, Express, MongoDB and React.
 
-- [LayerLens](https://github.com/hamimabbu/layerlens): a browser and connection evidence prototype with local browser checks, explicit choices for optional public-record lookups, and a previewable redacted export (JavaScript, Node.js)
-- [Active Directory home lab](https://github.com/hamimabbu/active-directory-home-lab): a VirtualBox lab with a Windows Server 2022 domain controller, a Windows 11 client and Kali Linux, built to practise common Active Directory attacks and how to detect and stop them
-- [ARP cache poisoning detector](https://github.com/hamimabbu/arp-poisoning-detector): reproduced the attack in a Kali lab, captured it in Wireshark and wrote a Python and Scapy detector (group assignment)
-- Regular practice on TryHackMe and Hack The Box
+## Other coursework
 
-## Software and data projects
+Some group projects are in private repositories:
 
-- [OKR module, industry capstone](https://github.com/Shakif-a/buscal-app): for a sponsor's dashboard I built the evidence upload scanner (file signature and content checks on PDFs, archives, images and documents), role-based access and the backend, with integration and end-to-end tests (Node.js, Express, MongoDB, React)
-- An online retail system with Java, Spring Boot and Apache Kafka microservices (group project, in progress)
-- TalentMatch Pro: a recruitment platform with Node.js, Express, SQLite, JWT login, role-based access and a recommendation engine (group project)
-- Loan default prediction with Apache Spark MLlib and TensorFlow on the LendingClub dataset (group project)
+- An online retail system using Java, Spring Boot and Apache Kafka microservices. Work is still in progress.
+- TalentMatch Pro, a recruitment platform using Node.js, Express, SQLite, JWT authentication and role-based access, with a recommendation engine.
+- Loan default prediction using Apache Spark MLlib and TensorFlow on the LendingClub dataset.
+
+I also practise on TryHackMe and Hack The Box.
 
 ## Tools I use
 
-- Security and networking: Wireshark, Nmap, Burp Suite, Metasploit, Hydra, John the Ripper, Kali Linux
-- Systems: Linux, Windows, Windows Server, Active Directory, VirtualBox, VMware
-- Languages: Python, Bash, JavaScript, Java, C++, SQL
-- Backend and data: Node.js, Express, MongoDB, MySQL, PostgreSQL, SQLite, Apache Spark
+- Security and networking: Wireshark, Nmap, Burp Suite, Metasploit, Hydra, John the Ripper and Kali Linux
+- Systems: Linux, Windows, Windows Server, Active Directory, VirtualBox and VMware
+- Languages: Python, Bash, JavaScript, Java, C++ and SQL
+- Backend and data: Node.js, Express, MongoDB, MySQL, PostgreSQL, SQLite and Apache Spark
 
-## Certifications
+## Study and certifications
 
-- Google Technical Support Fundamentals, October 2026, grade 97.9%. Verify it here: https://coursera.org/verify/IBY0ERDN2PDL
-- Working towards the PNPT, with the CCNA planned next
+- Google Technical Support Fundamentals, October 2026, grade 97.9%. [Certificate](https://coursera.org/verify/IBY0ERDN2PDL)
+- Studying for the PNPT. CCNA is planned next.
 
 ## Contact
 
-LinkedIn: https://www.linkedin.com/in/hasibur-rahaman-hamim/
+[LinkedIn](https://www.linkedin.com/in/hasibur-rahaman-hamim/)
