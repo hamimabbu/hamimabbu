@@ -36,6 +36,7 @@ Some of the team projects are in private repositories.
 ## Certifications
 
 - Google Technical Support Fundamentals (Coursera, October 2026). [Verify it here](https://coursera.org/verify/IBY0ERDN2PDL)
+- Introduction to Cybersecurity (Cisco Networking Academy, November 2026, student-level course). [Verify it here](https://www.credly.com/badges/16da2c8b-625a-4cfe-b809-20136de75b94)
 
 ## Contact
 
